@@ -6,5 +6,5 @@
 
 Reading | link
 ---------- | ---------
-Growth Mindset | [Link](https://nihadzeidan.github.io/reading-notes/read02.html)
+Growth Mindset | [Link](https://nihadzeidan.github.io/reading-notes/read02)
 2nd item | no link 
