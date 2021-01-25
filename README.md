@@ -1,5 +1,7 @@
 # reading-notes
-### Growth Mindset I see it as the ability to obsereb and learn something new, baring in mind that effort and hard wroking is what you need to reach your goal. 
+
+
+### I See Growth Mindset as the ability to obsereb and learn something new, baring in mind that effort and hard work is what you need to reach your goal. 
 
 
 I would say in order to remind myself to stay in the growth mindset mode the following:
