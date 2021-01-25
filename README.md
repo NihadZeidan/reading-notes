@@ -25,5 +25,5 @@ Do's for Growth Mindset:
 - [x] Take the successful people as your role modle.
 
 
-Written By Nihad.Z 
+Written By Nihad.Z | [GitHub Portfolio](https://github.com/NihadZeidan)
 > New Software Development learner.
