@@ -23,5 +23,5 @@ Do's for Growth Mindset:
 - [x] Take the successful people as your role modle.
 
 
-Written By @NihadZeidan 
+Written By Nihad.Z 
 > new Software Development learner.
