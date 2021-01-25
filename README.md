@@ -4,8 +4,5 @@ Nihad Zeidan, a 24 years old Business Administration gradute, who's passionte to
 
 Reading | link
 ---------- | ---------
-Growth Mindset | [Link](https://nihadzeidan.github.io/reading-notes/read02)
-
+Growth Mindset | [Link](https://nihadzeidan.github.io/reading-notes/read02.html)
 2nd item | no link 
-
-
