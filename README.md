@@ -27,3 +27,6 @@ Do's for Growth Mindset:
 
 Written By Nihad.Z | [GitHub Portfolio](https://github.com/NihadZeidan)
 > New Software Development learner.
+
+This is something new that I've added using VScode. Cheers!
+
