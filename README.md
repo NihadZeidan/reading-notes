@@ -26,4 +26,4 @@ Do's for Growth Mindset:
 
 
 Written By Nihad.Z 
-> new Software Development learner.
+> New Software Development learner.
