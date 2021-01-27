@@ -4,7 +4,7 @@
 
 
 
-Reading | links
+Reading   | Links
 ------- | -------
 Growth Mindset | [Link](https://nihadzeidan.github.io/reading-notes/read02)
 HTML | [Link](Read03a.md)
