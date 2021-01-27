@@ -1,8 +1,8 @@
-# Reading: HTML & CSS
+## Reading: HTML & CSS
 
 
 
-### HTML: describes the structure of the page using elements (HTML)
+#### HTML: describes the structure of the page using elements (HTML)
 exp : < p >  < /p >
 
 ----------------------------------------------------------------------

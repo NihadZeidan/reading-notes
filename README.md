@@ -6,9 +6,12 @@
 
 Reading   | Links
 ------- | -------
-Growth Mindset | [Link](https://nihadzeidan.github.io/reading-notes/read02)
-HTML | [Link](Read03a.md)
-Javascript | [Link](read04.md)
+Read01  | [The coder's Computer](Read01.md)
+Lab02b | [Growth Mindset](Lab02b.md)
+Read02a | [Learning Markdown](Read02a.md)
+Read02b | [Revisions and the cloud](Read02b.md)
+Read03a | [Structure webpages with HTML](Read03a.md)
+Read04 | [Programming with JS](read04.md)
 
 
 

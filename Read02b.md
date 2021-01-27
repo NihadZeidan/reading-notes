@@ -1,0 +1,3 @@
+#### Version Control: is like a storage to revisit your files versions and there are 3 types; 1) Local VC 2) Centralized VC 3) Distributed VCS.
+
+#### Git: is a Distributed VCS to save files in snapshots (it is like a shared Onedrive) that keep all the data secured. it has 3 states; 1) Commited: data is saved.  2)Modified: files have been changed but not saved. 3)Staged: flagged file's changed to commit.
