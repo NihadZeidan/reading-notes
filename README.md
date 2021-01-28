@@ -12,6 +12,7 @@ Read02a | [Learning Markdown](Read02a.md)
 Read02b | [Revisions and the cloud](Read02b.md)
 Read03a | [Structure webpages with HTML](Read03a.md)
 Read04 | [Programming with JS](read04.md)
+Read05 | [Operators and Loops](Read05.md)
 
 
 
