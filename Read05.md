@@ -7,8 +7,8 @@ ex:
 - != ---> Not equal to
 - === ---> Strict equal to, if both <b>data type</b> and <b>value</b> the same.
 - !== ---> Strict not equal to, if both <b>data type</b> and <b>values</b> are not the same.
-- < ---> less than > ----> greater than
-- <= ---> less than or equal,  >= ---> greater than or equal
+- < ---> less than > ----> greater than. 
+- <=  ---> less than or equal,  >=   ---> greater than or equal. 
 -------------------------------------------
 
 #### Logical Operators
@@ -17,7 +17,7 @@ Logical operators: to compare two expressions together.
 
 ex: 
 - && ---> And
-- || ---> Or
+- |  | ---> Or
 - ! ---> Not
 
 -----------------------------------------------
