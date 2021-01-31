@@ -27,7 +27,10 @@ There are many methodes to add color in CSS:
    hue: is the degree of color on wheel from 0 - 360 
    Saturation: shade of grey from 0% - 100%
    lightness: from 0% - 100% 
-    - also note that you can add Alfa to hsl too, alfa value = 0.0 - 1.0 
+    ( also note that you can add Alfa to hsl too, alfa value = 0.0 - 1.0) 
+
+
+![CSS](https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg)
 ------------------------------------------------------------------------------------------
 
 ### Functions
@@ -59,4 +62,3 @@ There are 2 ways to insert functions:
 - inside parantheses of the funcition you can write what we call it parameteres. and when you assign values to it in calling it will be called urguments.
 
 
-![CSS](https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg)
