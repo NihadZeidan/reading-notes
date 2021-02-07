@@ -21,7 +21,7 @@
 
 #### Code 201 Content:
 
-| Reading | Link | 
+| Reading | Links | 
 |----------|--------|
 | Read01  | [Introductory HTML and JavaScript](Reading201/Read01.md)|
 | Read02  | [](Reading201/Read02.md) |
