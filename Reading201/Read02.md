@@ -8,7 +8,8 @@
 < sub > ===> subscript 
 < br /> ===> adding line break
 < hr /> ===> to add horziantal rule 
- - Note: empty elements: do not have any words between openning and closing tags, and only have one tag like < br /> < hr />
+   Note: empty elements: do not have any words between openning and closing tags, and only have one tag like < br /> < hr />
+   
 ------------------------------
 
 Semantic markup: elements to add extra info to the text
@@ -27,7 +28,8 @@ Semantic markup: elements to add extra info to the text
    - < address > ===> to add contact info for the author (email, physical address, phone number )
    - < ins > and < del > ===> to show inserted or deleted content (The content of a < ins > element
 is usually underlined, while the content of a < del > element usually has a line through it.) 
-   - < s > ===> to indicate to somthing no longer accurate 
+    < s > ===> to indicate to somthing no longer accurate 
+    
 --------------------------------------------------------
 
 #### CSS: Cascading style Sheet
