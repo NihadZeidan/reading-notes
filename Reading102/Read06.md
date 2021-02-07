@@ -31,6 +31,7 @@ There are many methodes to add color in CSS:
 
 
 ![CSS](https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg)
+
 ------------------------------------------------------------------------------------------
 
 ### Functions

@@ -66,6 +66,9 @@ Script: is a series of instructions that a computer can follow to achieve a goal
 2. Individual tasks
 3. sequance of steps (codes)
 
+each step is called statement. 
+each block code is written inside curly brackets { }.
+
 Objects: are the things around us and it have property.
 Event: to trigger a specific section of the code (change the value of the property of an object)
 Method: retrive or update property value of an object (how to interact with object)

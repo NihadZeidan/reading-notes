@@ -23,7 +23,7 @@
 | Reading | Link | 
 |----------|--------|
 | Read01  | [Introductory HTML and JavaScript](Reading201/Read01.md)|
-| Read02  | [](Reading201/Read02.md) |
+| Read02  | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](Reading201/Read02.md) |
 | Read03  | [](Reading201/Read03.md) |
 | Read04  | [](Reading201/Read04.md) |
 | Read05  | [](Reading201/Read05.md) |
