@@ -1,6 +1,7 @@
 # Nihad Emad Zeidan
 
-### Nihad Zeidan, a 24 years old Business Administration gradute, who's passionte to learn Software Development.
+#### Nihad Zeidan, a 24 years old Business Administration gradute, who's passionte to learn Software Development.
+###### Here you can find all the tables related to reading notes.
 
 #### Code 102 Content:
 
@@ -20,7 +21,7 @@
 
 #### Code 201 Content:
 
-| Reading | Link | 
+| Reading | Links | 
 |----------|--------|
 | Read01  | [Introductory HTML and JavaScript](Reading201/Read01.md)|
 | Read02  | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](Reading201/Read02.md) |
