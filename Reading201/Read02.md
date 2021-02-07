@@ -8,7 +8,7 @@
 < sub > ===> subscript 
 < br /> ===> adding line break
 < hr /> ===> to add horziantal rule 
-   Note: empty elements: do not have any words between openning and closing tags, and only have one tag like < br /> < hr />
+   - Note: empty elements: do not have any words between openning and closing tags, and only have one tag like < br /> < hr />
    
 ------------------------------
 
@@ -28,7 +28,7 @@ Semantic markup: elements to add extra info to the text
    - < address > ===> to add contact info for the author (email, physical address, phone number )
    - < ins > and < del > ===> to show inserted or deleted content (The content of a < ins > element
 is usually underlined, while the content of a < del > element usually has a line through it.) 
-    < s > ===> to indicate to somthing no longer accurate 
+    - < s > ===> to indicate to somthing no longer accurate 
     
 --------------------------------------------------------
 
@@ -90,7 +90,7 @@ Arrays: is used to define more than one value.
 
  Expressions: result in a single value. two types: either just assign value to a var or use to or more values to return a single value.
  Operators: are symbols that do something. 
-  - Types: arithmetic, assignment, string, comparison, logical (&&, ||, !)
-  - for logical operators: false && anything = false,,, True || anything = true
+  - Types: arithmetic, assignment, string, comparison, logical (&&, |  |, !)
+  - for logical operators: false && anything = false,,, True |  | anything = true
 
 IF statement: check the (condition), if its true will result in the first statement in the code block, if not then it result in the second statement in the code block after the (else)
