@@ -16,7 +16,7 @@ in vector type images you can change the dimentions without efficting it.
 
 ##### < figure > ==> is used by HTML5 to add figure and caption to it by using < figcaption > inside it.
 
-![image from tumblr](Images/6c34877571f32828468dd679cd047b21.jpg)
+![ image from tumblr ](Images/6c34877571f32828468dd679cd047b21.jpg)
 
 
 ----------------------------------------------
@@ -32,7 +32,7 @@ You can add colors in CSS in four ways:
 
 you can add Alpha (opacity) to RGB and HSL with a value between 0.0 - 1.0
 
-![Color Wheel](Images/image.jpg)
+![ Color Wheel ](Images/image.jpg)
 
 ----------------------------------------------------
 
