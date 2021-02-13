@@ -52,8 +52,8 @@ DOM is often called Application programming Interface (API)
 
 DOM node: is each element, attribute and text is defined by DOM Node. Each Node is an object with property and method.
 
-![AccessNodesElements](Images/Access nodes in DOM.png)
-![Work with DOM elements](Images/Work with DOM elements.png)
+![AccessNodesElements] (Images/Access nodes in DOM.png)
+![Work with DOM elements] (Images/Work with DOM elements.png)
 
 DOM queries : are the methodes to access nodes.
 There are two ways to select an element from a Nodelist:
@@ -77,7 +77,7 @@ nextSibling
 firstChild
 lastChild
 
-![Traversing](Images/6c34877571f32828468dd679cd047b21.jpg)
+![Traversing] (Images/6c34877571f32828468dd679cd047b21.jpg)
 
 Traversing between elements could be difficult because browsers add a text node between elements that has white space. Therefor you can use them if there are no spaces between elements in HTML.
 
