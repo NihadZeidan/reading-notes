@@ -101,11 +101,6 @@ in DOM manipulation you can:
 2. Remove elements using removeChild() by 3 steps:
  - store the element to be removed in a variable.
  - store the parent of that element in a variable.
- - remove the element from its container. useing removeChild().
+ - remove the element from its container. using removeChild().
 
 
-
-
-
-
- or removeChile() .
