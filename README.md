@@ -29,7 +29,7 @@
 | Read04  | [HTML Links, JS Functions, and intro to CSS Layout](Reading201/Read04.md) |
 | Read05  | [HTML Images; CSS Color & Text](Reading201/Read05.md) |
 | Read06  | [JS Object Literals; The DOM](Reading201/Read06.md) |
-| Read07  | [](Reading201/Read07.md) |
+| Read07  | [HTML Tables; JS Constructor Functions](Reading201/Read07.md) |
 | Read08  | [](Reading201/Read08.md) |
 | Read09  | [](Reading201/Read09.md) |
 | Read10  | [](Reading201/Read10.md) |
