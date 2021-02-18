@@ -32,7 +32,7 @@
 | Read07  | [HTML Tables; JS Constructor Functions](Reading201/Read07.md) |
 | Read08  | [More CSS Layout](Reading201/Read08.md) |
 | Read09  | [](Reading201/Read09.md) |
-| Read10  | [](Reading201/Read10.md) |
+| Read10  | [Debugging](Reading201/Read10.md) |
 | Read11  | [](Reading201/Read11.md) |
 | Read12  | [](Reading201/Read12.md) |
 | Read13  | [](Reading201/Read13.md) |
