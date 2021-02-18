@@ -2,7 +2,10 @@
 
 Events: are triggers that tell the code to change or display another code or change the properties.
 
-`element.addEventListner(type of event, function() {}` or you can use a global function already delared but without (). 
+`element.addEventListner(type of event, function() {}` or you can use a global function already delared but without () to only invoke it when the event is triggered.
+
+
+------------------------------------------------
 
 
 
