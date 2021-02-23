@@ -35,7 +35,7 @@
 | Read10  | [Debugging](Reading201/Read10.md) |
 | Read11  | [Audio, Video, Images](Reading201/Read11.md) |
 | Read12  | [Docs for the HTML <canvas> Element & Chart.js](Reading201/Read12.md) |
-| Read13  | [](Reading201/Read13.md) |
+| Read13  | [Local storage](Reading201/Read13.md) |
 | Read14  | [](Reading201/Read14.md) | 
 | Read15  | [](Reading201/Read15.md) |
 
