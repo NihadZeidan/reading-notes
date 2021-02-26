@@ -53,3 +53,4 @@ you can set a duration to the transition by using `  transition-duration: 1s;`  
 `transition-timing-function:`: to set the speed of the transition to move.
 
 ` transition-delay:` : to delay the starting of transition move.
+
