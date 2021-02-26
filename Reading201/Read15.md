@@ -1,5 +1,5 @@
 
-## Group Norms, How good teams built !
+## Group Norms, How good teams can be built ?
 
 
 The first finding of Google research about teams was the 'Who' part in any team does not really matter. So each person background or intrestes does not matter much to build effective team.
