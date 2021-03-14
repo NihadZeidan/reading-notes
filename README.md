@@ -64,7 +64,7 @@
 | To develop UI designs | https://www.mockflow.com/ |
 | Wave styles for HTML | https://getwaves.io/ |
 | Colors | https://colorhunt.co/ | 
-| Front-End tricks | https://freefrontend.com/ 
+| Front-End tricks | https://freefrontend.com/ |
 
 
 
