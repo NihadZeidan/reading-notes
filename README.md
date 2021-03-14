@@ -51,4 +51,23 @@
 
 
 
+----------------------------------------------------------------------
+
+#### Important Websites 
+
+
+| Website | Link |
+|---------|------|
+| MDN | https://developer.mozilla.org/en-US/ | 
+| W3Schools | https://www.w3schools.com/ |
+| HQ photos | https://unsplash.com/ |
+| To develop UI designs | https://www.mockflow.com/ |
+| Wave styles for HTML | https://getwaves.io/ |
+| Colors | https://colorhunt.co/ | 
+| Front-End tricks | https://freefrontend.com/ |
+
+
+
+
+
 
