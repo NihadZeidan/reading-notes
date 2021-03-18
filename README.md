@@ -1,6 +1,6 @@
 # Nihad Emad Zeidan
 
-## A person who likes art, with an infinate mission to improve himself and the people around him. he always wanted to learn skillset that will help him being an artist and able to make a difference in any place he works in, no matter when or where or in any feild that work is. that's why he choosed to learn Software Development.
+## A person who likes art, with an infinite mission to improve himself and the people around him. he always wanted to learn skillset that will help him being an artist and able to make a difference in any place he works in, no matter when or where or in any feild that work is. that's why he choosed to learn Software Development.
 
 
 ###### Here you can find all the tables related to reading notes.
