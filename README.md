@@ -47,7 +47,20 @@
 
 | Reading | Link |
 |---------|------|
-|Read01   |      |
+|Read01   | [SMACSS and Responsive Web Design](Reading301/read01.md)  |
+|Read02   |  |
+|Read03   |  |
+|Read04   |  |
+|Read05   |  |
+|Read06   |  |
+|Read07   |  |
+|Read08   |  |
+|Read09   |  |
+|Read10   |  |
+|Read11   |  |
+|Read12   |  |
+|Read13   |  |
+|Read14   |  |
 
 
 ----------------------------------------------------------------------
