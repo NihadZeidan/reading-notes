@@ -48,7 +48,7 @@
 | Reading | Link |
 |---------|------|
 |Read01   | [SMACSS and Responsive Web Design](Reading301/read01.md)  |
-|Read02   |  |
+|Read02   |  [jQuery, Events, and The DOM](Reading301/read02.md)|
 |Read03   |  |
 |Read04   |  |
 |Read05   |  |
