@@ -31,25 +31,40 @@ Note: Flexbox layout is most appropriate to the components of an application, an
 
 
 #### Properties for the Parent (flex container)
-- .container { display: flex; /* or inline-flex */ }
+- .container { 
+  display: flex; /* or inline-flex */
+   }
 
-- .container {flex-direction: row | row-reverse | column | column-reverse;}
+- .container {
+  flex-direction: row | row-reverse | column | column-reverse;
+  }
 
-- .container {flex-wrap: nowrap | wrap | wrap-reverse;}
+- .container {
+  flex-wrap: nowrap | wrap | wrap-reverse;
+  }
 
--.container {flex-flow: column wrap;}  : This is a shorthand for the flex-direction and flex-wrap properties, which together define the flex container’s main and cross axes. The default value is row nowrap.
+-.container {
+  flex-flow: column wrap
+  ;}  : This is a shorthand for the flex-direction and flex-wrap properties, which together define the flex container’s main and cross axes. The default value is row nowrap.
 
-- .container {  justify-content: flex-start | flex-end | center | space-between | space-around | space-evenly | start | end | left | right ... + safe | unsafe;} 
+- .container {
+    justify-content: flex-start | flex-end | center | space-between | space-around | space-evenly | start | end | left | right ... + safe | unsafe;
+    } 
+    
 ![](../Images/Justify.png)
 
 
 
-- .container {align-items: stretch | flex-start | flex-end | center | baseline | first baseline | last baseline | start | end | self-start | self-end + ... safe | unsafe;} : This defines the default behavior for how flex items are laid out along the cross axis on the current line. Think of it as the justify-content version for the cross-axis (perpendicular to the main-axis).
+- .container {
+  align-items: stretch | flex-start | flex-end | center | baseline | first baseline | last baseline | start | end | self-start | self-end + ... safe | unsafe;
+  } : This defines the default behavior for how flex items are laid out along the cross axis on the current line. Think of it as the justify-content version for the cross-axis (perpendicular to the main-axis).
 
 ![](../Images/align.jpg)
 
 
-- .container {  align-content: flex-start | flex-end | center | space-between | space-around | space-evenly | stretch | start | end | baseline | first baseline | last baseline + ... safe | unsafe; }
+- .container { 
+   align-content: flex-start | flex-end | center | space-between | space-around | space-evenly | stretch | start | end | baseline | first baseline | last baseline + ... safe | unsafe;
+    }
 
 ![](../Images/content.jpg)
 
