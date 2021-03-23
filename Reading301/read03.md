@@ -50,7 +50,7 @@ Note: Flexbox layout is most appropriate to the components of an application, an
 - .container {
     justify-content: flex-start | flex-end | center | space-between | space-around | space-evenly | start | end | left | right ... + safe | unsafe;
     } 
-    
+
 ![](../Images/Justify.png)
 
 
@@ -122,3 +122,11 @@ here’s a Sass @mixin to help with some of the prefixing, which also gives you 
 --------------------------------------------------------------------------------------------------
 
 
+
+
+
+I used the examples form the websites:
+
+https://1sherlynn.medium.com/javascript-templating-language-and-engine-mustache-js-with-node-and-express-f4c2530e73b2
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
