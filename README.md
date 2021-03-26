@@ -51,7 +51,7 @@
 |Read02   |  [jQuery, Events, and The DOM](Reading301/read02.md)|
 |Read03   | [Flexbox and Templating](Reading301/read03.md) |
 |Read04   | [Responsive Web Design and Regular Expressions](Reading301/read04.md) |
-|Read05   |  |
+|Read05   | [Heroku and Node.js](Reading301/read05.md) |
 |Read06   |  |
 |Read07   |  |
 |Read08   |  |
