@@ -52,7 +52,7 @@
 |Read03   | [Flexbox and Templating](Reading301/read03.md) |
 |Read04   | [Responsive Web Design and Regular Expressions](Reading301/read04.md) |
 |Read05   | [Heroku and Node.js](Reading301/read05.md) |
-|Read06   |  |
+|Read06   | [NODE.JS](Reading301/Read06.md)  |
 |Read07   |  |
 |Read08   |  |
 |Read09   |  |
