@@ -53,7 +53,7 @@
 |Read04   | [Responsive Web Design and Regular Expressions](Reading301/read04.md) |
 |Read05   | [Heroku and Node.js](Reading301/read05.md) |
 |Read06   | [NODE.JS](Reading301/Read06.md)  |
-|Read07   |  |
+|Read07   | [APIs](Reading301/Read07.md) |
 |Read08   |  |
 |Read09   |  |
 |Read10   |  |
