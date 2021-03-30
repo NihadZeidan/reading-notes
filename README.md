@@ -54,7 +54,7 @@
 |Read05   | [Heroku and Node.js](Reading301/read05.md) |
 |Read06   | [NODE.JS](Reading301/Read06.md)  |
 |Read07   | [APIs](Reading301/Read07.md) |
-|Read08   |  |
+|Read08   | [SQL](Reading301/Read08.md) |
 |Read09   |  |
 |Read10   |  |
 |Read11   |  |
