@@ -56,7 +56,7 @@
 |Read07   | [APIs](Reading301/Read07.md) |
 |Read08   | [SQL](Reading301/Read08.md) |
 |Read09   | [Refactoring](Reading301/Read09.md) |
-|Read10   |  |
+|Read10   | [Call Stack](Reading301/Read10.md) |
 |Read11   |  |
 |Read12   |  |
 |Read13   |  |
