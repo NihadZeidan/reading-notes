@@ -1,4 +1,6 @@
-## EJS 
+# EJS
+
+![](../Images/blog-secure-dev-context-matters-nodejs-templates.jpg)
 
 EJS is Embedded JavaScript templates
 
