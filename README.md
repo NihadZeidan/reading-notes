@@ -59,7 +59,7 @@
 |Read10   | [Call Stack](Reading301/Read10.md) |
 |Read11   | [EJS](Reading301/Read11.md) |
 |Read12   | [EJS PARTIALS](Reading301/Read12.md) |
-|Read13   |  |
+|Read13   | [Update/Delete](Reading301/Read13.md) |
 |Read14   |  |
 
 
