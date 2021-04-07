@@ -60,7 +60,7 @@
 |Read11   | [EJS](Reading301/Read11.md) |
 |Read12   | [EJS PARTIALS](Reading301/Read12.md) |
 |Read13   | [Update/Delete](Reading301/Read13.md) |
-|Read14   |  |
+|Read14   | [DB Normalization](Reading301/Read14.md) |
 
 
 ----------------------------------------------------------------------
