@@ -61,6 +61,8 @@
 |Read12   | [EJS PARTIALS](Reading301/Read12.md) |
 |Read13   | [Update/Delete](Reading301/Read13.md) |
 |Read14   | [DB Normalization](Reading301/Read14.md) |
+|Read15   | [Diversity & Inclusion](Reading301/Read15.md) |
+
 
 
 ----------------------------------------------------------------------
