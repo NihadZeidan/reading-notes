@@ -67,13 +67,30 @@
 
 ----------------------------------------------------------------------
 
+
+
+
+
+
+
 #### Code 401 - Advanced Software Development
 
 | Reading | Link |
 |---------|------|
 |Read01   |      |
 
+
+
+
+
+
 ----------------------------------------------------------------------
+
+
+
+
+
+
 
 #### Important Websites 
 
@@ -88,6 +105,42 @@
 | Colors | https://colorhunt.co/ | 
 | Image Place-Holder | http://placehold.jp/en.html |
 | Front-End tricks | https://freefrontend.com/ |
+| Documentation for all CDNs | https://cdnjs.com/ |
+| Documentation for NPM | www.npmjs.com |
+| JQuery Documentation | https://api.jquery.com/  |
+| SMACSS Documentation | http://smacss.com/ |
+| Mustache Documentation | https://github.com/janl/mustache.js |
+| SQL cheat sheet | http://www.cheat-sheets.org/sites/sql.su/ |
+| REGEX Documentation | https://www.freeformatter.com/java-regex-tester.html  |
+| ICONS | https://icomoon.io/#icons | 
+| Search for API | https://www.programmableweb.com/ | 
+| Public APIs | https://github.com/public-apis/public-apis |
+| To configure your laptop as a programmer | https://codefellows.github.io/setup-guide/windows/ |
+
+
+
+
+
+---------------------------------------------------------------------------------------------------
+
+
+
+
+
+#### Practice Websites 
+
+| Website | Link |
+|---------|------|
+| To practice FlexBox | https://flexboxfroggy.com/  |
+| To practice Grid | https://cssgridgarden.com/ |
+| To practice or test REGEX | https://regex101.com/  or https://regexr.com/ |
+| To practice Coding | https://freecodecamp.org |
+
+
+
+
+
+
 
 
 
