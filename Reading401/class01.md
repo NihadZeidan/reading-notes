@@ -9,12 +9,12 @@ is an array method that takes in 3 parameters Accumulator, Array's element and I
 
 
 
-![](/Images/arrayMethod.jpeg)
+![](../Images/arrayMethod.jpeg)
 
 
 -----------------------------------------
 
-![](/Images/then.png)
+![](../Images/then.png)
 
 --------------------------------------
 

@@ -32,7 +32,7 @@ As You Think, So You Are
 
 ## How to think like a programmer — lessons in problem solving  
 
-![Meta Skills](/Images/METASKILLS.jpeg)
+![Meta Skills](../Images/METASKILLS.jpeg)
 
 
 

@@ -78,7 +78,32 @@
 | Reading | Link |
 |---------|------|
 |Prep Reading  | [Prep Read](Reading401/prep.md) |
-| Read class 01 | [Class 01](Reading401/class01.md) |
+|Read class 01 | [Review](Reading401/class01.md) |
+|Read class 02 | [Class 02]() |
+|Read class 03 | [Class 03]() |
+|Read class 04 | [Class 04]() |
+|Read class 05 | [Class 05]() |
+|Read class 06 | [Class 06]() |
+|Read class 07 | [Class 07]() |
+|Read class 08 | [Class 08]() |
+|Read class 09 | [Class 09]() |
+|Read class 10 | [Class 10]() |
+|Read class 11 | [Class 11]() |
+|Read class 12 | [Class 12]() |
+|Read class 13 | [Class 13]() |
+|Read class 14 | [Class 14]() |
+|Read class 15 | [Class 15]() |
+|Read class 16 | [Class 16]() |
+|Read class 17 | [Class 17]() |
+|Read class 18 | [Class 18]() |
+|Read class 19 | [Class 19]() |
+|Read class 20 | [Class 20]() |
+|Read class 21 | [Class 21]() |
+|Read class 22 | [Class 22]() |
+|Read class 23 | [Class 23]() |
+|Read class 24 | [Class 24]() |
+|Read class 25 | [Class 25]() |
+|Read class 26 | [Class 26]() |
 
 
 
