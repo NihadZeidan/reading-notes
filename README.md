@@ -78,6 +78,7 @@
 | Reading | Link |
 |---------|------|
 |Prep Reading  | [Prep Read](Reading401/prep.md) |
+| Read class 01 | [Class 01](Reading401/class01.md) |
 
 
 
