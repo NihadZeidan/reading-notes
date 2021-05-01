@@ -161,6 +161,8 @@
 | To practice Grid | https://cssgridgarden.com/ |
 | To practice or test REGEX | https://regex101.com/  or https://regexr.com/ |
 | To practice Coding | https://freecodecamp.org |
+| To practice Code Challenges | https://coderbyte.com/ | 
+
 
 
 
