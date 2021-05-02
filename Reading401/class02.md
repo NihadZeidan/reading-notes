@@ -1,19 +1,29 @@
 # Express 
 
 
+![](https://initialcommit.com/img/initialcommit/beginners-guide-to-using-express-js-and-node-js-framework.png)
+
+
+
 ### What’s the difference between PUT and PATCH?
 
 Put and Patch are HTTP methods. PUT is used to update (modifies) the entire resource data (it will overwrites the entire entities), whereas Patch applies a partial update to the resource where you can update only one value without affecting others.
 
 If you send Put method with one value to 4 values entity it will overwrite everything and you will have only one new value.
 
+
+------------------------------------------------
+
+
 ### Provide links to 3 services or tools that allow you to “mock” an API for development like json-server? 
 
-`https://www.mockable.io/`
+`https://www.npmjs.com/package/supertest`
 
-`https://insomnia.rest/`
+`https://github.com/nock/nock`
 
-`https://www.postman.com/downloads/`
+`https://mockoon.com/`
+
+------------------------------------
 
 
 ### Compare and contrast Swagger and APIDoc.js 1 Which HTTP status codes should be sent with each type of (un)successful API call?
@@ -51,6 +61,9 @@ Swagger :   responses:
         '5XX':
           description: Unexpected error.
 
+-------------------------------------------------
+
+
 
 ### Compare and contrast SOAP and ReST
 
@@ -69,7 +82,7 @@ SOAP (Subjective, Objective, Assessment and Plan) is a standardized protocol tha
 
 REST was created to address the problems of SOAP. REST allows different messaging formats, such as HTML, JSON, XML, and plain text, while SOAP only allows XML.
 
-
+---------------------------------------------------------
 
 
 ### Document the following Vocabulary Terms
@@ -86,18 +99,19 @@ Routing : is the paths that you use in your server app.
 
 WRRC : Web Request/Response Cycle , the flow of sending requests over the internet and receiving responses.
 
---------------------------
+
+--------------------------------------------------------------
 
 Which 3 things had you heard about previously and now have better clarity on?
 WRRC, Node.js and the server or web server.
 
 Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
-API documentations, Swagger, BIG-O
+API documentations, Swagger, BIG-O, TDD
 
 What are you most excited about trying to implement or see how it works?
-API Documentation.
+API Documentation and TDD.
 
----------------------------------------
+-----------------------------------------------------------------------
 
 ##### Node (or more formally Node.js) is an open-source, cross-platform runtime environment that allows developers to create all kinds of server-side tools and applications in JavaScript. 
 
@@ -106,7 +120,9 @@ API Documentation.
 npm consists of three distinct components:
 
 the website `https://www.npmjs.com/`
+
 the Command Line Interface (CLI) `https://docs.npmjs.com/cli/v7/commands/npm`
+
 the registry `https://docs.npmjs.com/cli/v7/using-npm/registry`
 
 
