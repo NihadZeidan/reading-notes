@@ -28,22 +28,43 @@ Following REST guidelines and recommendations in developing our API/server will 
 
 ### Functional programming (FP):  is the programming process that compose pure functions, avoiding shared state, mutable data, and side-effects.
 
+
+
 ### Object-oriented programming (OOP): is a programming paradigm based on the concept of "objects", which can contain data and code: data in the form of fields, and code, in the form of procedures.
+
+
 
 ### Class: another way to write an objects (object template) that give us more flexibility and shortcuts to deal with objects (in fact it is a special functions and it has two syntax just like a normal function; expressions or declaration).
 
+
+
 ### Super: is a keyword to model and manipulate the data in the constructor classes.
+
+
+
 ### this: this refer to where ever you using it, for example if you are using it inside constructor function of class `this` will refer to this class, whereas if you use it in the document level or inside an arrow function `this` will refer to the whole document.
+
+
 
 ### Test Driven Development (TDD): it is a way to develop a software (programming) that consist of 3 activities Coding, Testing and Designing (refactor) to turn the code to testing units before full deployment.
 
+
+
 ### Jest: jest is a dependance that help us to test our code and build testing units in JS.
+
+
 
 ### Continuous Integration (CI): CI is a work flow strategy to ensure everyone's changing (new codes) will integrate to the main brach (help to reduce merge conflicts and catch bugs) and it does that by using webhooks or APIs that will take each commit and test it and back to you with a message weather passed or not.
 
+
+
 ### REST:  Representational State Transfer, it is architectural style that gives a recommendations (guidelines) when building web servers that use HTTP protocol.
 
+
+
 ### Data Model : is a way to organize elements of the data and define how these elements will relate to each other to allow us to use the data as we wanted.
+
+
 
 
 
