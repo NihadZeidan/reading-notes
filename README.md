@@ -81,7 +81,7 @@
 |Read class 01 | [Review](Reading401/class01.md) |
 |Read class 02 | [Express](Reading401/class02.md) |
 |Read class 03 | [Express REST API](Reading401/class03.md) |
-|Read class 04 | [Class 04]() |
+|Read class 04 | [Data Modeling](Reading401/Read04.md) |
 |Read class 05 | [Class 05]() |
 |Read class 06 | [Class 06]() |
 |Read class 07 | [Class 07]() |
