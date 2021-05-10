@@ -135,6 +135,5 @@ ALGORITHM Print()
 
 
 
-  READ PART 2
 
 
