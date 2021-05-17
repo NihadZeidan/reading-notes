@@ -84,7 +84,7 @@
 |Read class 04 | [Data Modeling](Reading401/Read04.md) |
 |Read class 05 | [Linked List](Reading401/Read05.md) |
 |Read class 06 | [Authentication](Reading401/Read06.md) |
-|Read class 07 | [Class 07]() |
+|Read class 07 | [Bearer Authorization](Reading401/Read07.md) |
 |Read class 08 | [Class 08]() |
 |Read class 09 | [Class 09]() |
 |Read class 10 | [Class 10]() |
