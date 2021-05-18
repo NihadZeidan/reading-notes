@@ -85,7 +85,7 @@
 |Read class 05 | [Linked List](Reading401/Read05.md) |
 |Read class 06 | [Authentication](Reading401/Read06.md) |
 |Read class 07 | [Bearer Authorization](Reading401/Read07.md) |
-|Read class 08 | [Class 08]() |
+|Read class 08 | [ACL](Reading401/Read08.md) |
 |Read class 09 | [Class 09]() |
 |Read class 10 | [Class 10]() |
 |Read class 11 | [Class 11]() |
