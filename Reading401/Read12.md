@@ -47,12 +47,10 @@ is a programming construct or design pattern that waits for and dispatches event
 An event queue is a repository where events from an application are held prior to being processed by a receiving program or system. it follows FIFO approach.
 
 ## Call Stack:
-
 A call stack is a mechanism for an interpreter (like the JavaScript interpreter in a web browser) to keep track of its place in a script that calls multiple functions — what function is currently being run and what functions are called from within that function.
 
 
 ## Emit/Raise/Trigger:
-
 Is the event starter action,  that when it happened the event will listen to it and fire a call back.
 
 ## Subscribe:
