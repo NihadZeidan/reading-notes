@@ -4,7 +4,7 @@
 This means there are 2 way communication between the server and client side, this is so useful when someone is building real-time app to sind and receive data between the server and the client.
 
 ### Does socket.io use HTTP? Why?
-No it doesn't, HTTP is one side communication meaning it send requests from the server to send data, while Socket.io is a package for real-time apps meaning it needs two-way communication between the server and the client, that's why it use TCP instead of HTTP.
+Yes, socket use HTTP at the beginning to initialize the connection between the server and the client then after establish connection it start using TCP. Also if the TCP fall down socket io will start using HTTP.
 
 ### What happens when a client emits an event?
 when the client side emits an event the server side will be listening to that event and then handle the data received form the client via call back function.
@@ -97,6 +97,9 @@ real-time messaging apps
 
 
 -----------------------------------------------------------
+## Message Queue
+
+![](https://i0.wp.com/robtiffany.com/wp-content/uploads/2009/10/message_queue.png?fit=623%2C242&ssl=1)
 
 
 Rooms
