@@ -60,6 +60,6 @@ Event Driven Architecture and using AWS
 
 ### Pub/Sub
 representing the stream of messages (data) from a single, specific topic (publisher), to be delivered to the subscribing application.
-Pub/Sub is an asynchronous messaging service that decouples services that produce events from services that process events.
+Pub/Sub is an asynchronous messaging service.
 You can use Pub/Sub as messaging-oriented middleware or event ingestion and delivery for streaming analytics pipelines.
 Pub/Sub offers durable message storage and real-time message delivery with high availability and consistent performance at scale.
