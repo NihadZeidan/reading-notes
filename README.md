@@ -94,7 +94,7 @@
 |Read class 14 | [Event Driven Architecture](Reading401/Read14.md) |
 |Read class 15 | [Trees](Reading401/Read15.md) |
 |Read class 16 | [AWS: Cloud Servers](Reading401/Read16.md) |
-|Read class 17 | [Class 17]() |
+|Read class 17 | [AWS: S3 and Lambda](Reading401/Read17.md) |
 |Read class 18 | [Class 18]() |
 |Read class 19 | [Class 19]() |
 |Read class 20 | [Class 20]() |
