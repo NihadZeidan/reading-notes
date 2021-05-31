@@ -79,12 +79,42 @@ Amazon Simple Storage Service, is SaaS that offer object storage service, the Be
  - Query in place (you can use SQL to analyze and interact with data).
  - Industry-leading performance, scalability, availability, and durability.
 
+
 ## AWS Lambda:
+Is a Serverless service provided by AWS, in which the users write Lambda function, application written in one of the supported languages and runtime and upload them to Lambda.
+
+Serverless : means You do not need to maintain your own server, but instead you use cloud services like Lambda that will take care of all the infrastructure, OS, and network layer.
+
+How Lambda Calculate the costs:
+ 1. create Lambda function
+ 2. Lambda will put the function into container and calculate the RAM and CPU needed for it.
+ 3. Lambda then execute the function and once it finishes Lambda multiply the RAM with the time that function needed to run (Runtime)
+ 4. The customers then get charged based on the allocated memory and the amount of run time the function took to complete.
+
+Benefits of using AWS Lambda:
+ 1. Pay per use.
+ 2. Fully managed infrastructure. 
+ 3. Automatic scaling. 
+ 4. Tight integration with other AWS products. 
+
+ ![](https://d1.awsstatic.com/product-marketing/Lambda/Diagrams/product-page-diagram_Lambda-HowItWorks.68a0bcacfcf46fccf04b97f16b686ea44494303f.png)
 
 
 
+## CDNs 
+Content Delivery Network is a geographically distributed group of servers that work together to provide fast delivery of Internet content. A CDN allows for the fast transfer of data needed for loading Internet content including HTML pages, javascript files, stylesheets, images, and videos.
+
+How it works :
+When a user requests a webpage that is part of a content delivery network, the CDN will redirect the request from the originating site’s server to a server in the CDN that is closest to the user and deliver the cached content. CDNs will also communicate with the originating server to deliver any content that has not been previously cached.
 
 
+Benefits of using CDNs:
+ 1. Increase Speed.
+ 2. Decrease Load on the server.
+ 3. Uptime.
+ 4. Increase server security.
+
+ A smaller company probably doesn’t need to improve website load speeds with a CDN as they typically don’t have an overwhelming amount of traffic.
 
 ----------------------------------
 ### Notes 
