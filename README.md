@@ -96,7 +96,7 @@
 |Read class 16 | [AWS: Cloud Servers](Reading401/Read16.md) |
 |Read class 17 | [AWS: S3 and Lambda](Reading401/Read17.md) |
 |Read class 18 | [AWS: API, Dynamo and Lambda](Reading401/Read18.md) |
-|Read class 19 | [Class 19]() |
+|Read class 19 | [AWS: Events](Reading401/Read19.md) |
 |Read class 20 | [Class 20]() |
 |Read class 21 | [Class 21]() |
 |Read class 22 | [Class 22]() |
