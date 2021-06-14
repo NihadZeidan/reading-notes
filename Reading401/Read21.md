@@ -59,6 +59,13 @@ example :
 
 You need to `bind` the methods used inside the class or use arrow function to use `this` properly.
 
+
+
+An input form element whose value is controlled by React in this way is called a “controlled component”.
+
+
+
+
 [Forms](https://reactjs.org/docs/forms.html)
 
 [State and lifeCycle](https://reactjs.org/docs/state-and-lifecycle.html)
