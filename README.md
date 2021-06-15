@@ -99,7 +99,7 @@
 |Read class 19 | [AWS: Events](Reading401/Read19.md) |
 |Read class 20 | [Component Based UI](Reading401/Read20.md) |
 |Read class 21 | [Props and State](Reading401/Read21.md) |
-|Read class 22 | [Class 22]() |
+|Read class 22 | [Component Composition](Reading401/Read22.md) |
 |Read class 23 | [Class 23]() |
 |Read class 24 | [Class 24]() |
 |Read class 25 | [Class 25]() |
