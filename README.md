@@ -100,7 +100,7 @@
 |Read class 20 | [Component Based UI](Reading401/Read20.md) |
 |Read class 21 | [Props and State](Reading401/Read21.md) |
 |Read class 22 | [Component Composition](Reading401/Read22.md) |
-|Read class 23 | [Class 23]() |
+|Read class 23 | [Routing](Reading401/Read23.md) |
 |Read class 24 | [Class 24]() |
 |Read class 25 | [Class 25]() |
 |Read class 26 | [Class 26]() |
