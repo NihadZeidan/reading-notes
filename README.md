@@ -102,7 +102,7 @@
 |Read class 22 | [Component Composition](Reading401/Read22.md) |
 |Read class 23 | [Routing](Reading401/Read23.md) |
 |Read class 24 | [Hash Table](Reading401/Read24.md) |
-|Read class 25 | [Class 25]() |
+|Read class 25 | [Hooks API](Reading401/Read25.md) |
 |Read class 26 | [Class 26]() |
 |Read class 26 | [Class 26]() |
 |Read class 26 | [Class 26]() |
