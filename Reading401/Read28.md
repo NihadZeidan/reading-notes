@@ -1,4 +1,4 @@
-# <Login /> and <Auth />
+# React Cookies and RBAC
 
 ### Why is the Context API useful?
 
