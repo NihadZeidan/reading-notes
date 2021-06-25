@@ -107,7 +107,7 @@
 |Read class 26 | [Context API](Reading401/Read27.md) |
 |Read class 26 | [React Cookies and RBAC](Reading401/Read28.md) |
 |Read class 26 | [Graphs](Reading401/Read29.md) |
-|Read class 26 | [Class 26]() |
+|Read class 26 | [Application State with Redux](Reading401/Read30.md) |
 |Read class 26 | [Class 26]() |
 |Read class 26 | [Class 26]() |
 |Read class 26 | [Class 26]() |
