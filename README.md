@@ -104,16 +104,16 @@
 |Read class 24 | [Hash Table](Reading401/Read24.md) |
 |Read class 25 | [Hooks API](Reading401/Read25.md) |
 |Read class 26 | [Custom Hooks](Reading401/Read26.md) |
-|Read class 26 | [Context API](Reading401/Read27.md) |
-|Read class 26 | [React Cookies and RBAC](Reading401/Read28.md) |
-|Read class 26 | [Graphs](Reading401/Read29.md) |
-|Read class 26 | [Application State with Redux](Reading401/Read30.md) |
-|Read class 26 | [Class 26]() |
-|Read class 26 | [Class 26]() |
-|Read class 26 | [Class 26]() |
-|Read class 26 | [Class 26]() |
-|Read class 26 | [Class 26]() |
-|Read class 26 | [Class 26]() |
+|Read class 27 | [Context API](Reading401/Read27.md) |
+|Read class 28 | [React Cookies and RBAC](Reading401/Read28.md) |
+|Read class 29 | [Graphs](Reading401/Read29.md) |
+|Read class 30 | [Application State with Redux](Reading401/Read30.md) |
+|Read class 31 | [Redux - Combined Reducers](Reading401/Read31.md) |
+|Read class 32 | [Class 26]() |
+|Read class 33 | [Class 26]() |
+|Read class 34 | [Class 26]() |
+|Read class 35 | [Class 26]() |
+|Read class 36 | [Class 26]() |
 
 
 
