@@ -23,7 +23,7 @@ and to not affect the original state and return it by default.
 
 `reducer` --> pure function that takes in an action and state, return new state based on the action
 
-`dispatch` --> dispatch is a function of the Redux store. to dispatch an action to components. This is the only way to trigger a state change. With React Redux, your components never access the store directly, you need to dispatch actions to component than use actions to change the state.
+`dispatch` --> dispatch is a function of the Redux store. to dispatch an action to components. This is the only way to trigger a state change. With React Redux, your components never access the store directly, you need to dispatch actions in component with type and payload to change the state.
 
 ---
 
