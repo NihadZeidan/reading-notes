@@ -109,7 +109,7 @@
 |Read class 29 | [Graphs](Reading401/Read29.md) |
 |Read class 30 | [Application State with Redux](Reading401/Read30.md) |
 |Read class 31 | [Redux - Combined Reducers](Reading401/Read31.md) |
-|Read class 32 | [Class 26]() |
+|Read class 32 | [Redux - Asynchronous Actions](Reading401/Read32.md) |
 |Read class 33 | [Class 26]() |
 |Read class 34 | [Class 26]() |
 |Read class 35 | [Class 26]() |
