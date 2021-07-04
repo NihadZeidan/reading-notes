@@ -112,7 +112,7 @@
 |Read class 32 | [Redux - Asynchronous Actions](Reading401/Read32.md) |
 |Read class 33 | [Redux ToolKit](Reading401/Read33.md) |
 |Read class 34 | [React-Native](Reading401/Read34.md) |
-|Read class 35 | [Class 26]() |
+|Read class 35 | [Ethics in Tech](Reading401/Read35.md) |
 |Read class 36 | [Class 26]() |
 
 
