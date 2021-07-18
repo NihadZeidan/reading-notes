@@ -147,12 +147,20 @@
 | SMACSS Documentation | http://smacss.com/ |
 | Mustache Documentation | https://github.com/janl/mustache.js |
 | SQL cheat sheet | http://www.cheat-sheets.org/sites/sql.su/ |
+| Git Cheat sheet | https://education.github.com/git-cheat-sheet-education.pdf |
+| Big O Cheat sheet | https://www.bigocheatsheet.com/ |
+| SASS Cheat sheet | https://devhints.io/sass |
+| React Cheat sheet | https://devhints.io/react / https://reactcheatsheet.com/ |
+| Authontication Cheat sheet | https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html#introduction |
+| Socket Emit Cheat sheet | https://socket.io/docs/v3/emit-cheatsheet/index.html |
+| HTTP Status Code | https://www.restapitutorial.com/httpstatuscodes.html |
+| All about Routing | https://expressjs.com/en/guide/routing.html | 
 | REGEX Documentation | https://www.freeformatter.com/java-regex-tester.html  |
 | ICONS | https://icomoon.io/#icons | 
 | Search for API | https://www.programmableweb.com/ | 
 | Public APIs | https://github.com/public-apis/public-apis |
 | To configure your laptop as a programmer | https://codefellows.github.io/setup-guide/windows/ |
-
+| Wierd JS | https://github.com/denysdovhan/wtfjs |
 
 
 
@@ -170,7 +178,7 @@
 | To practice FlexBox | https://flexboxfroggy.com/  |
 | To practice Grid | https://cssgridgarden.com/ |
 | To practice or test REGEX | https://regex101.com/  or https://regexr.com/ |
-| To practice Coding | https://freecodecamp.org |
+| To practice Coding | https://freecodecamp.org /  https://www.hackerrank.com/ |
 | To practice Code Challenges | https://coderbyte.com/  /  https://leetcode.com/accounts/login/ | 
 
 
